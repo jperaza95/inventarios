@@ -1,0 +1,11 @@
+C:\Users\peraza\Source\Repos\inventariosij\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+<<<<<<< HEAD
+C:\Users\julio\source\repos\inventarioij\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+=======
+C:\Users\aders\Source\Repos\inventariosij\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\peraza\source\repos\proyectointegrador\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\inventarioij\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\julius\Source\Repos\inventariosij\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\inventariosij2\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\inventariosij2202\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+>>>>>>> develop
